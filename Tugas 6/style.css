@@ -1,0 +1,23 @@
+.satu {
+  background-color: aquamarine;
+  border: 15px dotted red;
+  width: 300px;
+  height: 100px;
+  overflow: scroll;
+}
+
+.dua {
+  background-color: aquamarine;
+  border: 5px solid green;
+  width: 300px;
+  height: 100px;
+  overflow: auto;
+}
+
+.tiga {
+  background-color: aquamarine;
+  border: 15px dashed blue;
+  width: 300px;
+  height: 100px;
+  overflow: scroll;
+}
